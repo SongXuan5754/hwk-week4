@@ -39,6 +39,6 @@ void draw() {
     }
     line(i*3, height-values[realIndex], i*3, height);
 
-    //println("realIndex" + test);//the heightest of realIndex is 199
+    println("realIndex" + test);//the heightest of realIndex is 199
   }
 }
